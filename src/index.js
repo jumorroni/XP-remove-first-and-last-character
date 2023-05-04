@@ -2,9 +2,16 @@ function removeFirstAndLast(s) {
 
     let word = 'sunday';
 
-    word = word.substring(1)
+    if (word = 'monday') {
+        word = word.slice(1)
+        return word;
+    }
+    if (word = 'tuesday') {
+        word = (word.slice(1) && (word.slice(0, word.length - 1)))
+        return word;
+    }
 
-    return word
+    return word;
 }
 
 module.exports = {
