@@ -1,9 +1,9 @@
 function removeFirstAndLast(s) {
 
     let word = 'sunday';
-    // for (i = 0; i >= 2; i++) {
-    //     word += s
-    // }
+
+    word = word.substring(1)
+
     return word
 }
 
