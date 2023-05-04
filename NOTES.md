@@ -28,3 +28,9 @@ Pomodoro 4 🍅: Driver: Juliana Morroni
 - Make test fail ✅
 - Increment prod code to pass the test ❌
 - Understand the issues 🚧
+
+Pomodoro 5 🍅: Driver: Juliana Morroni
+- Check what is happening 
+- Understadn the best way to continue
+- Refact tests
+- Fix prod code
